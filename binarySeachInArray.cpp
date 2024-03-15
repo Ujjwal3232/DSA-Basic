@@ -21,7 +21,7 @@ int binarySearch(int arr[],int key,int no){
         
         
     }
-    
+    return -1;
 }
 
 int main(){
